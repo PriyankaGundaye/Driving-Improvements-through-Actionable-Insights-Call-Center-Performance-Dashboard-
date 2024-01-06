@@ -1,1 +1,3 @@
-# Driving-Improvements-through-Actionable-Insights-Call-Center-Performance-Dashboard-
+Driving Improvements through Actionable Insights: Call Center Performance Dashboard:
+
+This project analyzes call center data to identify opportunities for improving customer satisfaction and operational efficiency. Key metrics on call volume, wait times, resolution rates, and agent performance are visualized in an interactive Power BI dashboard. The analysis reveals high call volumes in January leading to long wait times. Resolution rates and customer satisfaction scores also show room for improvement. Recommendations focus on better forecasting and staffing, targeted agent training, and optimized call routing to reduce wait times and increase first call resolution. The project provides data-driven insights to guide initiatives to enhance call center service levels.
